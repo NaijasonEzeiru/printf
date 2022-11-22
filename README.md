@@ -1,1 +1,2 @@
-its well
+git checkout master
+git merge team
